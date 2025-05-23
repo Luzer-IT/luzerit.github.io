@@ -59,9 +59,9 @@ main {
     padding: 20px;
 }
 .alert-banner {
-    background-color: #fab508;
+    background-color: #44fa08;
     color: #000000;
-    border: 1px solid #fab508;
+    border: 1px solid #24fa08;
     padding: 16px 48px 16px 24px;
     position: relative;
     font-family: sans-serif;
@@ -78,6 +78,6 @@ main {
     background: none;
     border: none;
     font-size: 20px;
-    color: #d59a23;
+    color: #44d523;
     cursor: pointer;
         }
